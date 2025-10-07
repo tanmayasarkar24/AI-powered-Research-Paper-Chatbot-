@@ -1,0 +1,25 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pkl
+*.npy
+*.index
+
+# Model files
+*.pt
+*.bin
+*.h5
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.env/
+
+# Large data files
+*.pdf
+*.zip
+*.tar
+*.gz
