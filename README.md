@@ -108,14 +108,6 @@ The chatbot follows a **hybrid retrieval + generation** architecture:
 | Visualization | Streamlit (UI) |
 | OCR (Future) | pytesseract, pdf2image |
 
----
-
-## 🧠 Authors
-
-👩‍💻 **Tanmaya Sarkar**  
-*Deep Learning | NLP | Applied AI Research*
-
-📧 Contact: *(add email or GitHub profile link)*
 
 ---
 
