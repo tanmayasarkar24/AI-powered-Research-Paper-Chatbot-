@@ -1,0 +1,18 @@
+streamlit
+pymupdf
+sentence-transformers
+faiss-cpu
+transformers
+torch --index-url https://download.pytorch.org/whl/cpu
+spacy
+networkx
+pyvis
+reportlab
+pdf2image
+pillow
+pytesseract
+python-louvain
+sentencepiece
+accelerate
+wordcloud
+matplotlib
